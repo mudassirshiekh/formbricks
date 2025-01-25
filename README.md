@@ -41,6 +41,7 @@ Harvest user-insights, build irresistible experiences.
 </p>
 
 ## ✨ About Formbricks
+## By Mudassir Alam
 
 <img width="1527" alt="formbricks-sneak" src="https://github-production-user-asset-6210df.s3.amazonaws.com/675065/249441967-ccb89ea3-82b4-4bf2-8d2c-528721ec313b.png">
 
